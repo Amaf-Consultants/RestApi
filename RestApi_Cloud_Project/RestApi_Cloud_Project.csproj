@@ -96,7 +96,7 @@
     <Content Include="Global.asax" />
     <Content Include="packages.config" />
   </ItemGroup>
-  <Import Project="$(VSToolsPath)\WebApplications\Microsoft.WebApplication.targets"     Condition="'$(VSToolsPath)' != ''" />
+  <Import Project="$(VSToolsPath)\WebApplications\Microsoft.WebApplication.targets" />
 <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v12.0\WebApplications\Microsoft.WebApplication.targets" Condition="true" />
   <ProjectExtensions>
     <MonoDevelop>
