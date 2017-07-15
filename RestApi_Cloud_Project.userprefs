@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{ABA9B079-A684-44F4-A694-6D180A2F6939}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="RestApi_Cloud_Project/Controllers/HomeController.cs">
+    <Files>
+      <File FileName="RestApi_Cloud_Project/Controllers/HomeController.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.RestApi__Cloud__Project PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>

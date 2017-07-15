@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RestApi_Cloud_Project", "RestApi_Cloud_Project\RestApi_Cloud_Project.csproj", "{ABA9B079-A684-44F4-A694-6D180A2F6939}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RestApi_Cloud_Project.Tests", "RestApi_Cloud_Project.Tests\RestApi_Cloud_Project.Tests.csproj", "{911E83ED-E861-4D89-8DB1-D317F505C14D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ABA9B079-A684-44F4-A694-6D180A2F6939}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ABA9B079-A684-44F4-A694-6D180A2F6939}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ABA9B079-A684-44F4-A694-6D180A2F6939}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ABA9B079-A684-44F4-A694-6D180A2F6939}.Release|Any CPU.Build.0 = Release|Any CPU
+		{911E83ED-E861-4D89-8DB1-D317F505C14D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{911E83ED-E861-4D89-8DB1-D317F505C14D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{911E83ED-E861-4D89-8DB1-D317F505C14D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{911E83ED-E861-4D89-8DB1-D317F505C14D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
